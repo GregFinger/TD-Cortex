@@ -1,2 +1,2 @@
-# TD-Cortex
- Voxelized and Distorted MRI Scans
+# Cortex
+![](screenshot.png)
